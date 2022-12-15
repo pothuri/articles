@@ -1,0 +1,123 @@
+
+How to communicate Java microservices? | by Krzysztof Atłasik | SoftwareMill Tech Blog
+https://blog.softwaremill.com/how-to-communicate-java-microservices-b71f4e6bd9ed
+
+7 mistakes when using Apache Kafka | by Michał Matłoka | SoftwareMill Tech Blog
+https://blog.softwaremill.com/7-mistakes-when-using-apache-kafka-44358cd9cd6
+
+Who and why uses Apache Kafka?. Some claim that Kafka is one of the… | by Michał Matłoka | SoftwareMill Tech Blog
+https://blog.softwaremill.com/who-and-why-uses-apache-kafka-10fd8c781f4d
+
+Facts about Kafka every business should know | by Ola Puchta-Górska | SoftwareMill Tech Blog
+https://blog.softwaremill.com/facts-about-kafka-every-business-should-know-1249a3b9db74
+
+What is Apache Kafka and what are Apache Kafka use cases? | by Maria Wachal | SoftwareMill Tech Blog
+https://blog.softwaremill.com/what-is-apache-kafka-and-what-are-kafka-use-cases-871666dd4eed
+
+Good resources for learning about Apache Kafka | by Michał Matłoka | SoftwareMill Tech Blog
+https://blog.softwaremill.com/good-resources-for-learning-about-apache-kafka-57547c8c9d3e
+
+Microservices 101: Transactional Outbox & Inbox | SoftwareMill Tech Blog | SoftwareMill Tech Blog
+https://blog.softwaremill.com/microservices-101-transactional-outbox-and-inbox-6dc29035fee6
+
+Overview of next-generation Java frameworks | SoftwareMill Tech Blog | SoftwareMill Tech Blog
+https://blog.softwaremill.com/overview-of-next-generation-java-frameworks-d8415f9f850a
+
+How to communicate Java microservices? | by Krzysztof Atłasik | SoftwareMill Tech Blog
+https://blog.softwaremill.com/how-to-communicate-java-microservices-b71f4e6bd9ed
+
+What are Microservices and what are their benefits? | by Maria Wachal | SoftwareMill Tech Blog
+https://blog.softwaremill.com/what-are-microservices-and-what-are-their-benefits-d2aa64c52426
+
+Beyond buzzwords: A brief history of microservices patterns - IBM Developer
+https://developer.ibm.com/articles/cl-evolution-microservices-patterns/
+
+Take Spring Boot, GraphQL and gRPC micro-services. Solve the N+1 query issue with DataLoader | by Jaroslaw Kijanowski | SoftwareMill Tech Blog
+https://blog.softwaremill.com/take-spring-boot-graphql-and-grpc-micro-services-solve-the-n-1-query-issue-with-dataloader-c2fec7b43517
+
+How to choose a database for your project? | SoftwareMill Tech Blog | SoftwareMill Tech Blog
+https://blog.softwaremill.com/how-to-choose-a-database-for-your-project-21adc102b50d
+
+
+
+Beginners guide to Google Cloud Platform - ThinkInfi
+https://thinkinfi.com/beginners-guide-to-google-cloud-platform/
+
+
+Understanding Profiles in Microservices - Knoldus Blogs
+https://blog.knoldus.com/understanding-profiles-in-microservices/
+
+Spring Boot: Launch your application in Google Cloud Platform (GCP) - Knoldus Blogs
+https://blog.knoldus.com/spring-boot-launch-your-application-in-google-cloud-platform-gcp/
+
+Intro to Spring AOP - Knoldus Blogs
+https://blog.knoldus.com/intro-to-spring-aop/
+
+Spring Cloud API Gateway With An Example - Knoldus Blogs
+https://blog.knoldus.com/spring-cloud-api-gateway/
+
+Differences between Netflix zuul and Spring cloud gateway - Knoldus Blogs
+https://blog.knoldus.com/differences-netflix-zuul-and-spring-cloud-gateway/
+
+Implementing API Gateway using Spring Cloud Gateway - Knoldus Blogs
+https://blog.knoldus.com/implementing-api-gateway-using-spring-cloud-gateway/
+
+Spring Cloud Gateway with Actuator API - Knoldus Blogs
+https://blog.knoldus.com/spring-cloud-gateway-actuator/
+
+Build your first web application in Spring-boot - Knoldus Blogs
+https://blog.knoldus.com/build-your-first-web-application-in-spring-boot/
+
+Exploring Spring Boot :Beginners Level - Knoldus Blogs
+https://blog.knoldus.com/exploring-spring-boot-beginners-level/
+
+How to Design Microservices Architecture? - Knoldus Blogs
+https://blog.knoldus.com/how-to-design-microservices-architecture/
+
+Springboot all possible ways to read props from Configuration file. - Knoldus Blogs
+https://blog.knoldus.com/springboot-read-from-configuration-file/
+
+Testing Spring Embedded Kafka consumer and producer - Knoldus Blogs
+https://blog.knoldus.com/testing-spring-embedded-kafka-consumer-and-producer/
+
+Spring Security - A Starter Guide - Knoldus Blogs
+https://blog.knoldus.com/spring-security-a-starter-guide/
+
+Part- I : Spring Cloud Gateway - An Introduction - Knoldus Blogs
+https://blog.knoldus.com/part-i-spring-cloud-gateway-an-introduction/
+
+How to start with Spring MVC - Knoldus Blogs
+https://blog.knoldus.com/how-to-start-with-spring-mvc/
+
+Spring Beans in Java - Knoldus Blogs
+https://blog.knoldus.com/spring-beans-in-java/
+
+Beginner's Guide to GraphQL with Spring Boot - Knoldus Blogs
+https://blog.knoldus.com/beginners-guide-to-graphql-with-spring-boot/
+
+Aspect Oriented Programming with Spring - Knoldus Blogs
+https://blog.knoldus.com/aspect-oriented-programming-with-spring/
+
+Integration of SpringBoot with MySQL using Spring JPA - Knoldus Blogs
+https://blog.knoldus.com/integration-of-springboot-with-mysql-using-spring-jpa/
+
+Spring | Guides
+https://spring.io/guides
+
+REST Assured: A beginner's guide for REST API testing. - Knoldus Blogs
+https://blog.knoldus.com/rest-assured-a-beginners-guide-for-rest-api-testing/
+
+Introduction to Consul (Part-1) - Knoldus Blogs
+https://blog.knoldus.com/introduction-to-consul-part-1/
+
+And you thought you were doing Microservices - Knoldus Blogs
+https://blog.knoldus.com/and-you-thought-you-were-doing-microservices/
+
+Serverless Architecture - Blog-1 - Knoldus Blogs
+https://blog.knoldus.com/serverless-architecture-blog-1/
+
+Serverless Architecture-Blog-2 (AWS Lambda) - Knoldus Blogs
+https://blog.knoldus.com/serverless-architecture-blog-2-aws-lambda/
+
+Wait! Don't write your microservice ... yet - Knoldus Blogs
+https://blog.knoldus.com/wait-dont-write-your-microservice-yet/
