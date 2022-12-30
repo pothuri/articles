@@ -1,0 +1,58 @@
+jdk 1.0 1996
+stable 
+jdk 1.0 1996
+jdk 1.1 1997 inner class, javabean, jdbc, rmi, jit, internationalization, unicode, javabeans, awt, reflection
+jdk 1.2 1998
+strictfp, swing, plugin , idl, collections
+jdk 1.3 2000
+hotspot, rmi[m] , jndi, jpda, javasound, synthetic proxy classes
+https://www.oracle.com/java/technologies/javase/releasenote-v131.html#131_29
+jdk 1.4 2002
+assert, regex, exceptions, ipv6, logging api,non blocking io, image io, xml parser, xslt, api, security, crypto, preferences api
+https://www.oracle.com/java/technologies/javase/releasenotes-v142.html#142_42
+j2se 5  2005
+generics, annotations,autoboxing, enumerations, varargs,  for each [m]
+semantics, static imports, concurrent, macos supp
+https://www.oracle.com/java/technologies/javase/advancedv5-support-relnotes.html
+j2se 6  2006
+scripting supp, swing, jdbc 4, jax-ws [m] jvm [m] pluggable annotations, updated gc, new algorithms, compiler optimizations
+https://www.oracle.com/java/technologies/javase/6-relnotes.html#R160_211
+j2se 7  2011
+jvm supp dynamic langs, new io lib, timsort, supp 4 new protocol  sctp, sdp improved typpe reference, strings in switch
+https://www.oracle.com/java/technologies/javase/7u-relnotes.html
+j2se 8  2014
+lambda, date ,time api, annotation on java type
+https://www.oracle.com/java/technologies/javase/8all-relnotes.html
+j2se 9  2017
+Add Additional IDL Stub Type Checks to org.omg.CORBA.ORB::string_to_object Method
+https://www.oracle.com/java/technologies/javase/9-0-1-relnotes.html
+j2se 10 2018
+https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
+j2se 11 2018
+https://www.oracle.com/java/technologies/javase/11-relnote-issues.html
+j2se 12 2019
+https://www.oracle.com/java/technologies/javase/12-relnote-issues.html
+j2se 13 2019
+https://www.oracle.com/java/technologies/javase/13-relnote-issues.html
+j2se 14 2020
+https://www.oracle.com/java/technologies/javase/14-relnote-issues.html
+j2se 15 2020
+https://www.oracle.com/java/technologies/javase/15-relnote-issues.html
+j2se 16 2021
+https://www.oracle.com/java/technologies/javase/16-relnote-issues.html
+j2se 17 2021
+https://www.oracle.com/java/technologies/javase/17-relnote-issues.html
+j2se 18 2022
+https://www.oracle.com/java/technologies/javase/18-relnote-issues.html
+j2se 19 2022
+https://www.oracle.com/java/technologies/javase/19-relnote-issues.html
+j2se 20 2023
+
+
+
+
+
+
+
+
+
