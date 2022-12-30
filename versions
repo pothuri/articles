@@ -38,6 +38,14 @@ JDK 1.6 Included script language, visual basic language support, and improvement
 j2se 7  2011
 jvm supp dynamic langs, new io lib, timsort, supp 4 new protocol  sctp, sdp improved typpe reference, strings in switch
 https://www.oracle.com/java/technologies/javase/7u-relnotes.html
+Supports the use of String class in the switch decision-making construct.
+ Integer types can be assigned with a binary number value. 
+Supports the use of underscore character ( _ ) between the digits of a numeric value. 
+An expandable try statement called try-with-resources statement used for automatic resource management. 
+Constructor of a generic class declaration can be replaced with an empty set of parameters (<>). 
+Enhancement in exception handling mechanism. In exception handling code, a single catch can be used to handle one or more exceptions. 
+Compiler warnings generated for varargs methods has been improved.
+
 j2se 8  2014
 lambda, date ,time api, annotation on java type
 https://www.oracle.com/java/technologies/javase/8all-relnotes.html
