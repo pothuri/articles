@@ -1,0 +1,179 @@
+spring project structure - Google Search
+https://www.google.com/search?q=spring+project+structure&tbm=isch&ved=2ahUKEwiB0Kqnr6D8AhWY4nMBHVSGAqYQ2-cCegQIABAA&oq=spring+project+st&gs_lcp=CgNpbWcQARgAMgUIABCABDIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDoECAAQQzoECAAQHjoECCMQJzoICAAQgAQQsQM6CwgAEIAEELEDEIMBUA1Yh6sCYMG4AmgAcAB4AIAByQGIAZYQkgEGMC4xNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=3FauY4HyMJjFz7sP1IyKsAo&bih=932&biw=1920
+
+SpringHow | Spring Framework and Spring Boot tutorials
+https://springhow.com/
+
+HTTP Error codes based on Exception in Spring Boot | SpringHow
+https://springhow.com/response-codes-for-restful-services/
+
+Startup Actuator Endpoint in Spring Boot | SpringHow
+https://springhow.com/spring-boot-startup-actuator-endpoint/
+
+Basic Authentication in Spring Boot | SpringHow
+https://springhow.com/basic-authentication-in-spring-boot/
+
+Spring Security | SpringHow
+https://springhow.com/spring-security/
+
+Spring Boot Banner - Complete Guide | SpringHow
+https://springhow.com/spring-boot-startup-banner/
+
+RESTful JPA Repositories with Spring Boot | SpringHow
+https://springhow.com/spring-boot-restful-jpa-repositories/
+
+Storing Spring Sessions in Database using JDBC | SpringHow
+https://springhow.com/spring-boot-jdbc-session/
+
+Redis as Session Store in Spring Boot | SpringHow
+https://springhow.com/spring-boot-redis-session/
+
+Roles and Privileges in Spring Security | SpringHow
+https://springhow.com/spring-rbac/
+
+UserDetailsService : Loading UserDetails from database | SpringHow
+https://springhow.com/userdetailsservice-database/
+
+In-Memory UserDetailsService in Spring Security | SpringHow
+https://springhow.com/in-memory-userdetailsservice-in-spring-security/
+
+Spring Boot Interview Questions 2021 | SpringHow
+https://springhow.com/spring-boot-interview-questions/
+
+Spring @Async to increase performance in 3 steps | SpringHow
+https://springhow.com/spring-async/
+
+Show SQL from Spring Data JPA/hibernate in Spring Boot | SpringHow
+https://springhow.com/spring-boot-show-sql/
+
+Spring Boot RabbitMQ - Complete Guide For Beginners | SpringHow
+https://springhow.com/spring-boot-rabbitmq/
+
+Spring Boot Actuator Info endpoint - Complete Guide | SpringHow
+https://springhow.com/spring-boot-actuator-info-endpoint/
+
+Using JdbcTemplate with Spring Boot | SpringHow
+https://springhow.com/jdbctemplate-with-spring-boot/
+
+Drools Rule Engine for Spring Boot - Tutorial | SpringHow
+https://springhow.com/spring-boot-drools/
+
+SpringApplication Class in spring Boot | SpringHow
+https://springhow.com/springapplication-class/
+
+Understanding Lazy Initialization in Spring Boot | SpringHow
+https://springhow.com/lazy-initialization-in-spring-boot/
+
+Failure Analyzers in Spring Boot and How they Work | SpringHow
+https://springhow.com/failure-analyzers-in-spring-boot/
+
+10 Reasons Why You should use Spring Boot. | SpringHow
+https://springhow.com/why-use-spring-boot/
+
+Introduction to WebSocket with Spring Boot | SpringHow
+https://springhow.com/spring-boot-websocket/
+
+Troubleshoot Auto-Configurations in Spring Boot Applications | SpringHow
+https://springhow.com/troubleshoot-auto-configurations-in-spring-boot/
+
+What is spring boot? - Introduction | SpringHow
+https://springhow.com/spring-boot-introduction/
+
+Spring Boot Annotations | Beginners guide | SpringHow
+https://springhow.com/spring-boot-annotations/
+
+Introduction to Spring Data JPA | SpringHow
+https://springhow.com/introduction-to-spring-data-jpa/
+
+Connection to a database from Spring Boot | SpringHow
+https://springhow.com/spring-boot-database-connection/
+
+Replacing Tomcat with Undertow in Spring Boot | SpringHow
+https://springhow.com/spring-boot-undertow/
+
+Jetty with Spring Boot - Replacing tomcat with Jetty | SpringHow
+https://springhow.com/spring-boot-jetty/
+
+Customizing Exit Codes of a Spring Boot Application | SpringHow
+https://springhow.com/spring-boot-exit-codes/
+
+Spring Boot Database Initialization | SpringHow
+https://springhow.com/spring-boot-database-initialization/
+
+Spring IOC Container | SpringHow
+https://springhow.com/spring-ioc-container/
+
+@SpringBootApplication annotation - How it works | SpringHow
+https://springhow.com/springbootapplication-annotation/
+
+JAR to WAR: Deploy Spring Boot on App Servers like Tomcat | SpringHow
+https://springhow.com/convert-spring-boot-jar-in-to-war/
+
+Shell Scripts to start and Stop Spring Boot Applications. | SpringHow
+https://springhow.com/start-stop-scripts-for-spring-boot-applications/
+
+Spring boot Starters with Examples| SpringHow
+https://springhow.com/what-are-spring-boot-starters/
+
+Spring Boot Hello World Tutorial Example For Beginners | SpringHow
+https://springhow.com/spring-boot-hello-world-application/
+
+Accessing Command-line Arguments in Spring Boot | SpringHow
+https://springhow.com/spring-boot-application-arguments/
+
+Paginating RESTful API responses in Spring MVC | SpringHow
+https://springhow.com/spring-mvc-pagination-sorting/
+
+Pagination and Sorting in Spring JPA | SpringHow
+https://springhow.com/pagination-and-sorting-in-spring-jpa/
+
+Injecting collection of objects in Spring | SpringHow
+https://springhow.com/injecting-collection-of-objects-in-spring/
+
+Content negotiation with Spring Boot | SpringHow
+https://springhow.com/spring-boot-content-negotiation/
+
+Spring Boot Email using Thymeleaf with Example | SpringHow
+https://springhow.com/spring-boot-email-thymeleaf/
+
+Thymeleaf views from database in Spring Boot | SpringHow
+https://springhow.com/spring-boot-thymeleaf-views-from-database/
+
+Spring Boot Custom Health Indicators | SpringHow
+https://springhow.com/custom-health-check-for-springboot/
+
+Spring Boot Health Endpoint | SpringHow
+https://springhow.com/spring-boot-health-check-indicators/
+
+Spring Boot Structure and Convention | SpringHow
+https://springhow.com/spring-boot-project-structure-and-convention/
+
+Install and Run Spring Boot Linux Service Guide | SpringHow
+https://springhow.com/installing-spring-boot-applications-as-linux-service/
+
+Logging In Spring Boot | SpringHow
+https://springhow.com/logging-in-spring-boot/
+
+Changing Context Path in a Spring Boot Application | SpringHow
+https://springhow.com/spring-boot-change-context-path/
+
+Ways to add Servlet Filters in Spring Boot | SpringHow
+https://springhow.com/servlet-filters-in-spring-boot/
+
+Ways to run Code on Application Startup in Spring Boot | SpringHow
+https://springhow.com/run-code-on-application-startup-in-spring-boot/
+
+What is the purpose of mvnw and mvnw.cmd files? | SpringHow
+https://springhow.com/maven-wrapper-explained/
+
+Apache Commons Logging - Explained | SpringHow
+https://springhow.com/apache-commons-logging-explained/
+
+Accessing application.properties in Spring Boot | SpringHow
+https://springhow.com/accessing-application-properties-in-spring-boot/
+
+A guide to @Value in Spring Boot | SpringHow
+https://springhow.com/a-guide-to-value-in-spring-boot/
+
+Docker setup for MySQL and phpMyAdmin | SpringHow
+https://springhow.com/mysql-docker-container-for-local-development/
