@@ -1,0 +1,55 @@
+Spring Boot Actuator: Health check, Auditing, Metrics gathering and Monitoring | CalliCoder
+https://www.callicoder.com/spring-boot-actuator/
+
+
+Health Checks, Metrics & More with Spring Boot Actuator - briansdevblog
+https://www.briansdevblog.com/2017/09/health-checks-metrics-more-with-spring-boot-actuator/
+
+Actuator: Spring Boot Production Monitoring and Management | Vojtech Ruzicka's Programming Blog
+https://www.vojtechruzicka.com/spring-boot-actuator/
+
+Java Memory Model - Memory and Garbage Collection - Java Infinite
+https://javainfinite.com/java/java-memory-model-memory-and-garbage-collection/
+
+Spring Boot Actuator A Complete Guide - Dinesh on Java
+https://www.dineshonjava.com/spring-boot-actuator-complete-guide/
+
+A simple way of using Micrometer, Prometheus and Grafana (Spring Boot 2)
+https://www.north-47.com/knowledge-base/a-simple-way-of-using-micrometer-prometheus-and-grafana-spring-boot-2/
+
+Basics of Java Garbage Collection | CodeAhoy
+https://codeahoy.com/2017/08/06/basics-of-java-garbage-collection/
+
+What happens when you only limit the maximum heap size?
+https://mikemybytes.com/2022/11/15/what-happens-when-you-only-limit-the-maximum-heap-size/
+
+
+Spring Boot Actuator - Complete Guide - Daily Code Buffer
+https://www.dailycodebuffer.com/spring-boot-actuator/
+
+Spring Boot Actuator | Baeldung
+https://www.baeldung.com/spring-boot-actuators
+
+My Refactor - Monitoring Spring Framework application with Actuator
+http://myrefactor.com/en/posts/monitoring-spring-framework-application-with-actuator
+
+Spring Boot Monitoring. Actuator, Prometheus, Grafana
+https://datamify.com/spring/spring-boot-monitoring-actuator-prometheus-grafana/
+
+Generate application metrics using SpringBoot and Micrometer - DEV Community 👩‍💻👨‍💻
+https://dev.to/sabyasachi/generate-application-metrics-using-springboot-and-micrometer-39mo
+
+(33) Metrics - Spring based applications | LinkedIn
+https://www.linkedin.com/pulse/metrics-spring-based-applications-nitin-kadam/
+
+Getting Started with Spring Boot Actuator - Lightrun
+https://lightrun.com/getting-started-with-spring-boot-actuator/
+
+JVM (Micrometer) | Grafana Labs
+https://grafana.com/grafana/dashboards/4701-jvm-micrometer/
+
+Spring Boot Observability: Setting up Micrometer, Grafana and Prometheus – The Coders Tower
+https://coderstower.com/2021/11/16/spring-boot-observability-setting-up-micrometer-grafana-and-prometheus/
+
+A starting point to debug a Java OutOfMemoryError
+https://blog.nimbleways.com/a-starting-point-to-debug-a-jvm-outofmemoryerror/
