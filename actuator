@@ -90,3 +90,5 @@ http://localhost:8081/actuator/metrics/http.server.requests
 http://localhost:8081/actuator/metrics/jvm.gc.pause
 http://localhost:8081/actuator/metrics/tomcat.sessions.active.max
 http://localhost:8081/actuator/metrics/process.start.time
+
+http://localhost:8081/actuator/prometheus
