@@ -56,3 +56,37 @@ https://coderstower.com/2021/11/16/spring-boot-observability-setting-up-micromet
 
 A starting point to debug a Java OutOfMemoryError
 https://blog.nimbleways.com/a-starting-point-to-debug-a-jvm-outofmemoryerror/
+
+
+
+
+http://localhost:8081/actuator/metrics/jvm.threads.states
+http://localhost:8081/actuator/metrics/jvm.gc.memory.promoted
+http://localhost:8081/actuator/metrics/jvm.memory.used
+http://localhost:8081/actuator/metrics/jvm.gc.max.data.size
+http://localhost:8081/actuator/metrics/jvm.memory.committed
+http://localhost:8081/actuator/metrics/system.cpu.count
+http://localhost:8081/actuator/metrics/logback.events
+http://localhost:8081/actuator/metrics/jvm.memory.max
+http://localhost:8081/actuator/metrics/jvm.buffer.memory.used
+http://localhost:8081/actuator/metrics/tomcat.sessions.created
+http://localhost:8081/actuator/metrics/jvm.threads.daemon
+http://localhost:8081/actuator/metrics/system.cpu.usage
+http://localhost:8081/actuator/metrics/jvm.gc.memory.allocated
+http://localhost:8081/actuator/metrics/tomcat.sessions.expired
+http://localhost:8081/actuator/metrics/jvm.buffer.count
+http://localhost:8081/actuator/metrics/jvm.threads.live
+http://localhost:8081/actuator/metrics/jvm.threads.peak
+http://localhost:8081/actuator/metrics/jvm.buffer.total.capacity
+http://localhost:8081/actuator/metrics/process.uptime
+http://localhost:8081/actuator/metrics/tomcat.sessions.rejected
+http://localhost:8081/actuator/metrics/process.cpu.usage
+http://localhost:8081/actuator/metrics/jvm.classes.loaded
+http://localhost:8081/actuator/metrics/jvm.classes.unloaded
+http://localhost:8081/actuator/metrics/tomcat.sessions.active.current
+http://localhost:8081/actuator/metrics/tomcat.sessions.alive.max
+http://localhost:8081/actuator/metrics/jvm.gc.live.data.size
+http://localhost:8081/actuator/metrics/http.server.requests
+http://localhost:8081/actuator/metrics/jvm.gc.pause
+http://localhost:8081/actuator/metrics/tomcat.sessions.active.max
+http://localhost:8081/actuator/metrics/process.start.time
