@@ -93,3 +93,6 @@ http://localhost:8081/actuator/metrics/process.start.time
 
 http://localhost:8081/actuator/prometheus
 http://localhost:8081/actuator/logfile
+
+http://localhost:8081/actuator/threaddump
+http://localhost:8081/actuator/heapdump
